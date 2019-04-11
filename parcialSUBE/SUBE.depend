@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554927177 source:c:\users\user\desktop\workspace\prog\parcialsube\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
