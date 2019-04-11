@@ -1,0 +1,28 @@
+void presentacion()
+{
+
+}
+
+void despedida()
+{
+
+}
+
+
+void Menu()
+{
+   opcion1
+   {
+   }
+   opcion2
+   {
+   }
+   opcion3
+   {
+   ayuda();
+   }
+}
+
+/* 3 archivos? - 1 freelancers + paga por hora
+2 - ABM freelancers (agregar freelancers)
+3 - Carga de horas (cantidad y días trabajados por freelancer)
